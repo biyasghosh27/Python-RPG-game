@@ -11,6 +11,6 @@ create a role playing game
 - user and enemy battle
 - if user gets to 0 health the game ends
 
-bonus: sometime there's an element of actual chance if any  enemy will appear or not
-bonus: when user  creates their character they are also given 5 points they can add to strength, defence etc...
-bonus: add a goal for the user - find treasure, save the village, slay the dragon etc
+- bonus: sometime there's an element of actual chance if any  enemy will appear or not
+- bonus: when user  creates their character they are also given 5 points they can add to strength, defence etc...
+- bonus: add a goal for the user - find treasure, save the village, slay the dragon etc
